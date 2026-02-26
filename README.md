@@ -11,6 +11,7 @@ A curated list of papers and code resources on latent / implicit visual chain-of
 | LVR | [arXiv:2509.24251](https://arxiv.org/pdf/2509.24251) | [GitHub](https://github.com/VincentLeebang/lvr) |
 | CoVT | [arXiv:2511.19418](https://arxiv.org/pdf/2511.19418) | [GitHub](https://github.com/Wakals/CoVT) |
 | LaViT | [arXiv:2601.10129](https://arxiv.org/pdf/2601.10129) | [GitHub](https://github.com/Svardfox/LaViT) |
+| SkiLa | [arXiv:2505.19536](https://arxiv.org/pdf/2505.19536) | [GitHub](https://github.com/TungChintao/SkiLa) |
 
 ## Notes
 
