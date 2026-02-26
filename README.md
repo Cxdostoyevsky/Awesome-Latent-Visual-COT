@@ -1,4 +1,4 @@
-# Awesome-Latent-Visual-COT-
+# Awesome-Latent-Visual-COT
 
 A curated list of papers and code resources on latent / implicit visual chain-of-thought in MLLMs.
 
