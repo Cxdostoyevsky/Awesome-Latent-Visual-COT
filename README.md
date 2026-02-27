@@ -5,7 +5,7 @@ A curated list of papers and code resources on latent / implicit visual chain-of
 ## Paper List
 
 | Name | Paper | Code / Project |
-|---|---|---|
+|:---:|:---:|:---:|
 | Quiet-STaR | [arXiv:2403.09629](https://arxiv.org/pdf/2403.09629) | Not open-sourced yet |
 | Coconut | [arXiv:2412.06769](https://arxiv.org/pdf/2412.06769) | [GitHub](https://github.com/facebookresearch/coconut) |
 | SkiLa | [arXiv:2505.19536](https://arxiv.org/pdf/2505.19536) | [GitHub](https://github.com/TungChintao/SkiLa) |
