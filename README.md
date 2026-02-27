@@ -8,6 +8,7 @@ A curated list of papers and code resources on latent / implicit visual chain-of
 |:---:|:---:|:---:|
 | Quiet-STaR | [arXiv:2403.09629](https://arxiv.org/pdf/2403.09629) | Not open-sourced yet |
 | Coconut | [arXiv:2412.06769](https://arxiv.org/pdf/2412.06769) | [GitHub](https://github.com/facebookresearch/coconut) |
+| VISION-R1 | [arXiv:2503.06749](https://arxiv.org/pdf/2503.06749) | [GitHub](https://github.com/Osilly/Vision-R1) |
 | SkiLa | [arXiv:2505.19536](https://arxiv.org/pdf/2505.19536) | [GitHub](https://github.com/TungChintao/SkiLa) |
 | Mirage | [arXiv:2506.17218](https://arxiv.org/pdf/2506.17218) | [Project Page](https://vlm-mirage.github.io/) |
 | LVR | [arXiv:2509.24251](https://arxiv.org/pdf/2509.24251) | [GitHub](https://github.com/VincentLeebang/lvr) |
