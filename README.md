@@ -21,4 +21,4 @@ A curated list of papers and code resources on latent / implicit visual chain-of
 ## Notes
 
 - Mirage currently points to a project page (not a GitHub repo link).
-- LIVR, Quiet-STaR, and CrystaL are currently listed without public code repositories.
+- LIVR, and CrystaL are currently listed without public code repositories.
