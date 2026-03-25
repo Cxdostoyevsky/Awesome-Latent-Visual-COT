@@ -13,6 +13,7 @@ A curated list of papers and code resources on latent / implicit visual chain-of
 | SkiLa | [arXiv:2505.19536](https://arxiv.org/pdf/2505.19536) | [GitHub](https://github.com/TungChintao/SkiLa) |
 | Mirage | [arXiv:2506.17218](https://arxiv.org/pdf/2506.17218) | [Project Page](https://vlm-mirage.github.io/) |
 | LVR | [arXiv:2509.24251](https://arxiv.org/pdf/2509.24251) | [GitHub](https://github.com/VincentLeebang/lvr) |
+| LADIR | [arXiv:2510.04573](https://arxiv.org/pdf/2510.04573) | [GitHub](https://github.com/mk322/LaDiR) |
 | CoVT | [arXiv:2511.19418](https://arxiv.org/pdf/2511.19418) | [GitHub](https://github.com/Wakals/CoVT) |
 | Monet | [arXiv:2511.21395](https://arxiv.org/pdf/2511.21395) | [GitHub](https://github.com/NOVAglow646/Monet) |
 | LIVR | [arXiv:2512.21218](https://arxiv.org/pdf/2512.21218) | Not open-sourced yet |
