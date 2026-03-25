@@ -7,6 +7,7 @@ A curated list of papers and code resources on latent / implicit visual chain-of
 | Name | Paper | Code / Project |
 |:---:|:---:|:---:|
 | Quiet-STaR | [arXiv:2403.09629](https://arxiv.org/pdf/2403.09629) | [Github](https://github.com/ezelikman/quiet-star) |
+| Fast Quiet-STaR | [arXiv:2505.17746](https://arxiv.org/pdf/2505.17746) | [Github](https://github.com/huangwei200012/Fast-Quiet-STaR) |
 | Coconut | [arXiv:2412.06769](https://arxiv.org/pdf/2412.06769) | [GitHub](https://github.com/facebookresearch/coconut) |
 | VISION-R1 | [arXiv:2503.06749](https://arxiv.org/pdf/2503.06749) | [GitHub](https://github.com/Osilly/Vision-R1) |
 | SkiLa | [arXiv:2505.19536](https://arxiv.org/pdf/2505.19536) | [GitHub](https://github.com/TungChintao/SkiLa) |
