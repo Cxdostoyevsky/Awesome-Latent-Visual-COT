@@ -10,8 +10,8 @@ A curated list of papers and code resources on latent / implicit visual chain-of
 | Fast Quiet-STaR | [arXiv:2505.17746](https://arxiv.org/pdf/2505.17746) | [Github](https://github.com/huangwei200012/Fast-Quiet-STaR) |
 | Coconut | [arXiv:2412.06769](https://arxiv.org/pdf/2412.06769) | [GitHub](https://github.com/facebookresearch/coconut) |
 | VISION-R1 | [arXiv:2503.06749](https://arxiv.org/pdf/2503.06749) | [GitHub](https://github.com/Osilly/Vision-R1) |
-| ❤️**SkiLa** | [arXiv:2505.19536](https://arxiv.org/pdf/2505.19536) | [GitHub](https://github.com/TungChintao/SkiLa) |
-| Mirage | [arXiv:2506.17218](https://arxiv.org/pdf/2506.17218) | [Project Page](https://vlm-mirage.github.io/) |
+| SkiLa | [arXiv:2505.19536](https://arxiv.org/pdf/2505.19536) | [GitHub](https://github.com/TungChintao/SkiLa) |
+| ❤️**Mirage** | [arXiv:2506.17218](https://arxiv.org/pdf/2506.17218) | [Project Page](https://vlm-mirage.github.io/) |
 | LVR | [arXiv:2509.24251](https://arxiv.org/pdf/2509.24251) | [GitHub](https://github.com/VincentLeebang/lvr) |
 | 🤪**LADIR** | [arXiv:2510.04573](https://arxiv.org/pdf/2510.04573) | [GitHub](https://github.com/mk322/LaDiR) |
 | CoVT | [arXiv:2511.19418](https://arxiv.org/pdf/2511.19418) | [GitHub](https://github.com/Wakals/CoVT) |
