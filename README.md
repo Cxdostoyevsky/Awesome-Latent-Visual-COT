@@ -19,6 +19,7 @@ A curated list of papers and code resources on latent / implicit visual chain-of
 | LIVR | [arXiv:2512.21218](https://arxiv.org/pdf/2512.21218) | Not open-sourced yet |
 | LaViT | [arXiv:2601.10129](https://arxiv.org/pdf/2601.10129) | [GitHub](https://github.com/Svardfox/LaViT) |
 | CrystaL | [arXiv:2602.20980](https://arxiv.org/pdf/2602.20980) | Not open-sourced yet |
+| LanteRn | [arXiv:2603.25629](https://arxiv.org/pdf/2603.25629) | Not open-sourced yet |
 
 ## Notes
 
