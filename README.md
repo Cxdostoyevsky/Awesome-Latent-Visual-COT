@@ -21,6 +21,7 @@ A curated list of papers and code resources on latent / implicit visual chain-of
 | CrystaL | [arXiv:2602.20980](https://arxiv.org/pdf/2602.20980) | Not open-sourced yet |
 | LanteRn | [arXiv:2603.25629](https://arxiv.org/pdf/2603.25629) | Not open-sourced yet |
 | MedLVR | [arXiv:2604.09757 ](https://arxiv.org/pdf/2604.09757) | Not open-sourced yet |
+| Silenced Visual Latents | [arXiv:2605.02735v1](https://arxiv.org/pdf/2605.02735v1) |[Github](https://github.com/zhangxin-xd/Unsilencing-Latent-Reasoning/tree/main)|
 
 ## Notes
 
