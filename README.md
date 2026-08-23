@@ -23,6 +23,7 @@ A curated list of papers and code resources on latent / implicit visual chain-of
 | MedLVR | [arXiv:2604.09757 ](https://arxiv.org/pdf/2604.09757) | Not open-sourced yet |
 | MedVCoT | [arXiv:2604.09757](https://arxiv.org/html/2604.09757v2) | [GitHub](https://github.com/zhuqh19/MedVCoT) |
 | Silenced Visual Latents | [arXiv:2605.02735v1](https://arxiv.org/pdf/2605.02735v1) |[Github](https://github.com/zhangxin-xd/Unsilencing-Latent-Reasoning/tree/main)|
+| CoLT | [arXiv:2606.31986](https://arxiv.org/pdf/2606.31986v1) | [GitHub](https://github.com/hulianyuyy/CoLT) |
 | LocAnyMed | [arXiv:2608.03322](https://arxiv.org/pdf/2608.03322) | [GitHub](https://github.com/MiliLab/LocAnyMed) |
 
 ## Notes
