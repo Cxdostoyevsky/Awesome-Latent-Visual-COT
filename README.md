@@ -25,7 +25,7 @@ A curated list of papers and code resources on latent / implicit visual chain-of
 | Silenced Visual Latents | [arXiv:2605.02735v1](https://arxiv.org/pdf/2605.02735v1) |[Github](https://github.com/zhangxin-xd/Unsilencing-Latent-Reasoning/tree/main)|
 | CoLT | [arXiv:2606.31986](https://arxiv.org/pdf/2606.31986v1) | [GitHub](https://github.com/hulianyuyy/CoLT) |
 | LocAnyMed | [arXiv:2608.03322](https://arxiv.org/pdf/2608.03322) | [GitHub](https://github.com/MiliLab/LocAnyMed) |
-
+| GRIT | [arXiv:2505.15879](https://arxiv.org/abs/2505.15879) | [GitHub](https://grounded-reasoning.github.io/) |
 ## Notes
 
 - Mirage currently points to a project page (not a GitHub repo link).
